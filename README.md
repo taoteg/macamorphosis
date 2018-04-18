@@ -16,7 +16,11 @@ _A gentle introduction to the idiosyncracies of the OS X dimension_
 
 ### 01 | OShiX! What's this? The base OS FYI
 
-TBD...
+  - What have I done?
+  - Where IS this place?
+  - What's common?
+  - What's unique?
+  - Where is all my stuff?
 
 ### 02 | Skullduggery: Popping the hood for a looksee
 
