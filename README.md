@@ -23,8 +23,14 @@ _A gentle introduction to the idiosyncracies of the OS X dimension_
 
 ### 03 | Die by the Sword! Utils you NEED in your life
 
-TBD...
+  - Set the controls for the heart of the sun
+  - WAKE UP!!
+  - Sit, panel, sit! Good window.
 
 ### 04 | You will NEVER be Ninja! Advanced concepts
 
-TBD...
+  - Become the CLI Commander!
+  - Breaking out of your shell
+  - Knowing the PATH
+  - Walking the PATH
+  - Two roads diverged in a wood
