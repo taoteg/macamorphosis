@@ -1,4 +1,4 @@
-# Mac-amorphosis
+# Macamorphosis
 
 _A gentle introduction to the idiosyncracies of the OS X dimension_
 
