@@ -7,12 +7,13 @@ _A gentle introduction to the idiosyncracies of the OS X dimension_
 - 01 : OShiX! What's this? The base OS FYI
 - 02 : Skullduggery: Popping the hood for a looksee
 - 03 : Die by the Sword! Utils you NEED in your life
-- 04 : TITLE
+- 04 : You will NEVER be Ninja! Advanced concepts
+<!--
 - 05 : TITLE
 - 06 : TITLE
 - 07 : TITLE
 - 08 : TITLE
-
+-->
 
 ### 01 | OShiX! What's this? The base OS FYI
 
@@ -27,5 +28,9 @@ _A gentle introduction to the idiosyncracies of the OS X dimension_
   - Where is all my stuff?
 
 ### 03 | Die by the Sword! Utils you NEED in your life
+
+TBD...
+
+### 04 | You will NEVER be Ninja! Advanced concepts
 
 TBD...
