@@ -1,6 +1,6 @@
 # Mac-amorphosis
 
-_A gentle introduction to the idiocyncracies of the OS X dimension_
+_A gentle introduction to the idiosyncracies of the OS X dimension_
 
 ### Sections
 
