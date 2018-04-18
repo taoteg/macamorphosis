@@ -12,14 +12,17 @@ _A gentle introduction to the idiosyncracies of the OS X dimension_
 ### 01 | OShiX! What's this? The base OS FYI
 
   - What have I done?
-  - Where IS this place?
+  - Where am I?
   - Why is it like this?
+  - How do I do anything?
 
 ### 02 | Skullduggery: Popping the hood for a looksee
 
+  - What did you do, Apple?
   - What's common?
   - What's unique?
   - Where is all my stuff?
+  - Nothing else matters
 
 ### 03 | Die by the Sword! Utils you NEED in your life
 
