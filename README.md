@@ -18,13 +18,13 @@ _A gentle introduction to the idiosyncracies of the OS X dimension_
 
   - What have I done?
   - Where IS this place?
-  - What's common?
-  - What's unique?
-  - Where is all my stuff?
+  - Why is it like this?
 
 ### 02 | Skullduggery: Popping the hood for a looksee
 
-TBD...
+  - What's common?
+  - What's unique?
+  - Where is all my stuff?
 
 ### 03 | Die by the Sword! Utils you NEED in your life
 
