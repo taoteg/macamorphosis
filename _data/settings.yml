@@ -17,6 +17,7 @@ menu:
 social:
 - {icon: 'github', link: 'https://github.com/taoteg'}
 - {icon: 'twitter', link: 'https://twitter.com/taoteg'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/johngentle/'}
 - {icon: 'facebook', link: 'https://www.facebook.com/taoteg'}
 - {icon: 'instagram', link: 'https://instagram.com/taoteg'}
 - {icon: 'envelope', link: 'mailto:taoteg@gmail.com'}
